@@ -5,4 +5,10 @@ We believe it may be F-Droid at its core source code, see
 more info
 
 #### Settings > Privacy > Permission manager > Storage > PackageUpdater
-<img src="https://github.com/Kasherpete/Gabb-Apps-Source/raw/main/images/2" alt="Error" width="200"/>
+<img src="https://github.com/Kasherpete/Gabb-Apps-Source/raw/main/images/2.png" alt="Error" width="200"/>
+
+#### Notification - package in update process
+<img src="https://github.com/Kasherpete/Gabb-Apps-Source/raw/main/images/3.png" alt="Error" width="200"/>
+
+#### GabbID - packages updated
+<img src="https://github.com/Kasherpete/Gabb-Apps-Source/raw/main/images/4.png" alt="Error" width="200"/>
