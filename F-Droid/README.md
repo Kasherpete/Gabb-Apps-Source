@@ -7,4 +7,4 @@ We believe that F-Droid is in the form of the Package Installer app that is on t
 that is not on the phone by default. This information will be revealed once we get the source code for Package Installer.
 
 #### Press/hold app > App info > Advanced > Battery > Battery optimization
-<img src="https://github.com/Kasherpete/Gabb-Apps-Source/tree/main/images/1" alt="Error" width="200"/>
+<img src="https://github.com/Kasherpete/Gabb-Apps-Source/raw/main/images/1" alt="Error" width="200"/>
