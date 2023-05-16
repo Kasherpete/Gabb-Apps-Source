@@ -9,5 +9,3 @@ that is not on the phone by default. This information is currently being reveale
 #### Press/hold app > App info > Advanced > Battery > Battery optimization
 <img src="https://github.com/Kasherpete/Gabb-Apps-Source/raw/main/images/1" alt="Error" width="200"/>
 
-#### Settings > Privacy > Permission manager > Storage > PackageUpdater
-<img src="https://github.com/Kasherpete/Gabb-Apps-Source/raw/main/images/2" alt="Error" width="200"/>
