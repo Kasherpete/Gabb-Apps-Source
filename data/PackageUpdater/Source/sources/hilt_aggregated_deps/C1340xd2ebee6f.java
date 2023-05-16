@@ -1,0 +1,5 @@
+package hilt_aggregated_deps;
+
+/* renamed from: hilt_aggregated_deps._dagger_hilt_android_internal_managers_HiltWrapper_ActivityRetainedComponentManager_ActivityRetainedComponentBuilderEntryPoint */
+public class C1340xd2ebee6f {
+}
