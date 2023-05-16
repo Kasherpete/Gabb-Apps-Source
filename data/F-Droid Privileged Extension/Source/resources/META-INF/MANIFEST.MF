@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 7.1.0-beta03
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 0Rz5oGt2zgRN46y4BzrxqMFueWV53pyoIKHH9uvJDx8=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: 7upWCk9yneFvczaEv+u8fDsXCszigoJkiYf54BXC9GY=
+
+Name: classes.dex
+SHA-256-Digest: ++W0+QGuDoXA4wPyMO46axy82c5RuMVa20nk/1jqCSA=
+
+Name: res/8X.png
+SHA-256-Digest: SPr8qWB9ESGJGdNHQ80XJVHiv/Sd8PjX0b1yA0/nSRI=
+
+Name: res/CG.png
+SHA-256-Digest: abD96585xJeLZ3xBnEU0PID//QkouiodRHPeRuGL1+I=
+
+Name: res/D2.png
+SHA-256-Digest: QAzC7qKZ1m163lbq48Q+jwITIOeemc+D0HZhCayHb/I=
+
+Name: res/SD.png
+SHA-256-Digest: JfmQFWmdQGZvSkEwo2NdBNW5xuLS3BX60GQYUh4LnJM=
+
+Name: res/jy.png
+SHA-256-Digest: AXCMM9wg+S7JtjZiynjNj1ptaldIaNXp9q0adM0c/MU=
+
+Name: res/u3.png
+SHA-256-Digest: WJ63O4CJfCdFFqM6t1G3tGq9yBR74hVv76c0AiBVpRw=
+
+Name: resources.arsc
+SHA-256-Digest: 9+mKECf3ao7sD26RVVJ6+kI92cOGX4h0vRrfANY3e+M=
+
