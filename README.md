@@ -9,7 +9,7 @@ This is a public archive of all source code that can be obtained from the
 ### ~~Current list of apps:~~
 * ~~[F-Droid Privileged Extension](https://github.com/Kasherpete/Gabb-Apps-Source/tree/main/data/F-Droid)~~
 * ~~[PackageUpdater](https://github.com/Kasherpete/Gabb-Apps-Source/tree/main/data/PackageUpdater/README.md)~~
-* **We have all apps from the Z2 in the legacy data folder in Google Drive**
+* **We have all apps from the Gabb Phone Plus in the legacy data folder in Google Drive - many of these apps will be the same with the Z2**
 
 ### Current apps to get:
 Hopefully we can get all apps but here is a list of the ones most important:
